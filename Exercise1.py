@@ -34,6 +34,8 @@ Give also the tests cases that you use.
 
 """
 This is an aplication for The Maximum Average Subtree of a Binary Tree
+The time and space complexity is O(N). 
+The N is the number of the nodes in the tree, number of employees in the organization.
 """
 
 
